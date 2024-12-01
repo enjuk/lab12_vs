@@ -105,12 +105,14 @@ namespace tui
    // windows version
    inline void pauseProgram()
    {
+       std::cout << "  ";
        system("pause");
    }  // end of pauseProgram()
 
    // windows version
    inline void pauseProgramWithMessage(const std::string& message)
    {
+       std::cout << "  ";
        system("pause");
    }  // end of pauseProgram()
 
