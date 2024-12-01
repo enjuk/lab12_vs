@@ -134,7 +134,7 @@ void Page::displayHeader() const
    std::cout << " |                 Registration for Computer Science Classes                |\n"
              << " |                            Saddleback College                            |\n"
              << " |--------------------------------------------------------------------------|\n"
-             << " |  Logged in as: " << std::left << std::setw(67) << userInfo << "     |\n"
+             << " |  Logged in as: " << std::left << std::setw(67) << userInfo << "         |\n"
              << " |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |\n"
              << " |  " << std::setw(85) << pageName << "     |\n"
              << "  ==========================================================================\n\n\n"
