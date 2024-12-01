@@ -1,5 +1,5 @@
 Platform
-  - This is meant to be built and ran windows using visual studio.
+  - This is meant to be built and ran on windows using visual studio.
   - A macOS/linux version using cmake is available here: https://github.com/enjuk/lab12_unix
 
 Build Instructions
